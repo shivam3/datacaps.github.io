@@ -5,6 +5,11 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+I'm a Data scientist, Software Engineer and Project Developer. I work on many new technologies and make projects for students around the world. I like to hlp students for projects, programming, learning and assignments. 
 
-Etc, etc, etc
+Contact me: 
+
+GMAIL: Vatshayan007@gmail.com
+
+
+
